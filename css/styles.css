@@ -128,6 +128,13 @@ p{
 .socials:hover{
   color: grey;
 }
+.madewithlove{
+  font-family: sans-serif;
+  color: #C8C6C6;
+  font-weight: lighter;
+  font-size: 1em;
+  font-weight:100;
+}
 
 @media (max-width:991.9px) {
 
